@@ -44,8 +44,8 @@ $$
 In order to get the two normal modes for small oscillations around $\pi$ (the stable point), we need to use small angle approximations, yielding
 
 $$
-L = \frac{1}{2} I \left(\dot{\theta}_ {1}^{2} + \dot{\theta}_ {2}^{2}\right) + \frac{a}{8}\left[\frac{7}{2}\left(\theta_{1}^{2} + \theta_{2}^{2}\right)-
-2\theta_{1} \theta_{2}\right]
+L = \frac{1}{2} I \left(\dot{\theta}_ {1}^{2} + \dot{\theta}_ {2}^{2}\right) - \frac{1}{2}\cdot \frac{a}{8}\left[7\left(\theta_{1}^{2} + \theta_{2}^{2}\right)-
+4\theta_{1} \theta_{2}\right]
 $$
 
 From here we can conclude the two normal modes are
